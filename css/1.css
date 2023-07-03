@@ -1,0 +1,105 @@
+body{
+	background-color:#a7dce0;
+	margin:1px 0px 0px 0px;
+	padding:0px;
+	/* text-align:center; */
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#tefoot{width: 1004px;
+margin top: -5px;
+padding: 10px;
+text-align: right;
+color: #FFFFFF;
+background:url(../img/images/qian.png)}
+div{border: none;}
+#fm{margin:0px; padding:0px;
+margin-bottom: -3px;}
+#souye{position:relative;
+	margin:0px auto 0px auto;
+	width:1080px;
+	text-align:left;
+	}
+#mulu{margin:0px; padding:0px;
+margin-bottom: -3px;
+margin-bottom: -3px;
+/* position: absolute;
+top: 235px; */}
+#mulu ul{list-style:none;
+	padding:0px; margin:0px;}
+#mulu li{float:left; 
+	text-align:center;
+	width:205px;}
+#mulu a{display:block;
+	padding:9px 6px 11px 6px;
+	background:url(../img/images/qian.png);
+	margin:0px;
+	font-size: larger;}
+#mulu a:link{color:#ffffff;
+	text-decoration:none;}
+#mulu a:visited{color:#ffffff;
+	text-decoration:none;}
+#mulu a:hover{color:#FFFFFF;
+	text-decoration:underline;
+	background:url(../img/images/shen.png)}
+#souyetu ul{list-style:none;
+	padding:0px; margin:0px;}
+#souyetu li{margin-bottom: -3px;
+margin-bottom: -3px;}
+/* #dbsp h{border-left: aqua;
+clear: ;} */
+#dbsp{margin-top: 2rem;
+padding: 0;
+border: 0;
+/* margin-bottom: -10px; */
+background-image: url(../img/images/fm_11.png) ;}
+#dbsp ul li{float: left;
+margin top: -3px;
+margin-bottom:-3px;
+padding:0 ;
+border: 0;}
+#dbsp ul{list-style-type: none;
+margin: 0;
+padding:0 ;
+border: 0;}
+/* #sp{padding-top: 0.625rem;
+margin-top: -3px; */
+/* background-color: aqua */;}
+#sp div{margin-top: -3px;
+margin-bottom: -3px;}
+.splp{margin-top: -3px;
+margin-bottom: -3px;}
+#zlnr{background-color: #FFFFFF;
+width: 1024px;
+margin-top: 2rem;
+margin-bottom: -0px;}
+#zlnr p{font-size: larger;
+padding-left: 115px;
+padding-right: 110px;}
+#zlnr span{font-size: larger;
+padding-left: 115px;
+padding-right: 110px;}
+#zlnr h2{padding-left: 115px;
+padding-right: 110px;}
+.green{color: aquamarine;
+padding-left: 115px;
+padding-right: 110px;}
+.red{color: brown;
+padding-left: 115px
+padding-right: 110px;}
+.qing{color: #7FFFD4;
+	padding-left: 115px;
+padding-right: 110px;}
+#lj{margin-bottom: -3px;
+padding-bottom: 4px;}
+#zl ul{list-style-type: none;
+margin: 0;
+padding:0 ;
+border: 0;}
+#zl li{float: left;
+margin top: -3px;
+margin-bottom:-3px;
+padding:0 ;
+border: 0;}
+
+
